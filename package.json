@@ -20,7 +20,6 @@
     "build:es": "rollup --config rollup.config.js",
     "build:ts": "tsc -p tsconfig.build.json && tsc-alias -p tsconfig.build.json",
     "clean": "rimraf ./dist",
-    "preinstall": "only-allow pnpm",
     "lint": "eslint --ext .ts --fix --quiet ./src",
     "prepare": "husky || true",
     "pretty": "pretty-quick && prettier-package-json --write",
