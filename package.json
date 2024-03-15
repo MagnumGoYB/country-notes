@@ -1,6 +1,6 @@
 {
   "name": "country-notes",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Find country codes, country phone codes, country time zone, ISO2 and ISO3 letter codes of countries. Resouce from https://countrycode.org",
   "license": "MIT",
   "author": "MagnumGoYB <sosbs@outlook.com>",
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/MagnumGoYB/country-notes"
   },
-  "type": "module",
+  "type": "modul",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
