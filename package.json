@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/MagnumGoYB/country-notes"
   },
-  "type": "modul",
+  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
