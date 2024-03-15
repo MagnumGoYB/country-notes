@@ -16,8 +16,9 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 18.17
-    - run: npm install
-    - run: npm run build
+    - run: npm install -g pnpm
+    - run: pnpm install
+    - run: pnpm run build
 
   publish-npm:
     needs: build
@@ -28,6 +29,6 @@ jobs:
       with:
         node-version: 18.17
         registry-url: https://registry.npmjs.org/
-    - run: npm publish
+    - run: pnpm publish
       env:
         NODE_AUTH_TOKEN: ${{secrets.npm_token}}
