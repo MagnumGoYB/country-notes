@@ -36,20 +36,36 @@ export const findByName = (name: CountryNoteType['name']) => {
   return countryCodes.find((country) => country.name === name)
 }
 
-export const findByCode = (code: CountryNoteType['code']) => {
-  return countryCodes.find((country) => country.code === code)
+export const findByCode = (code: CountryNoteType['code'], iso3?: boolean) => {
+  return countryCodes.find((country) =>
+    iso3 ? country.ISO3 === code : country.ISO2 === code
+  )
 }
 
 export const findByPhoneCode = (phoneCode: CountryNoteType['phoneCode']) => {
   return countryCodes.find((country) => country.phoneCode === phoneCode)
 }
 
+export const filterByCodes = (
+  codes: Array<CountryNoteType['code']>,
+  iso3?: boolean
+) => {
+  return countryCodes.filter((country) =>
+    codes.includes(iso3 ? country.ISO3 : country.ISO2)
+  )
+}
+
 export const excludeByNames = (names: Array<CountryNoteType['name']>) => {
   return countryCodes.filter((country) => !names.includes(country.name))
 }
 
-export const excludeByCodes = (codes: Array<CountryNoteType['code']>) => {
-  return countryCodes.filter((country) => !codes.includes(country.code))
+export const excludeByCodes = (
+  codes: Array<CountryNoteType['code']>,
+  iso3?: boolean
+) => {
+  return countryCodes.filter(
+    (country) => !codes.includes(iso3 ? country.ISO3 : country.ISO2)
+  )
 }
 
 export const excludeByPhoneCodes = (
