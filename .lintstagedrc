@@ -1,4 +1,4 @@
 {
-  "!(*countrycode.org.json)*": "npm run pretty",
-  "*.ts": "npm run lint"
+  "*.ts": "npm run lint",
+  "*|!**/*/countrycode.org.json": "npm run pretty"
 }
