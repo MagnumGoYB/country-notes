@@ -26,13 +26,13 @@ yarn add country-notes
 import CountryNotes from 'country-notes'
 
 CountryNotes.getAll() // Returns an array of country information
-CountryCodes.getTotal() // Return total number of countries
-CountryCodes.findByName('China') // Return country information by name
-CountryCodes.excludeByNames(['China', 'India']) // Returns an array of country information by excluding names
-CountryCodes.findByCode('CN') // Return country information by ISO2/ISO3 Code
-CountryCodes.excludeByCodes(['CN', 'IND']) // Returns an array of country information by excluding ISO2/ISO3 Codes
-CountryCodes.findByPhoneCode('86') // Return country information by Phone Code
-CountryCodes.excludeByPhoneCodes(['86', '91']) // Returns an array of country information by excluding Phone Codes
+CountryNotes.getTotal() // Return total number of countries
+CountryNotes.findByName('China') // Return country information by name
+CountryNotes.excludeByNames(['China', 'India']) // Returns an array of country information by excluding names
+CountryNotes.findByCode('CN') // Return country information by ISO2/ISO3 Code
+CountryNotes.excludeByCodes(['CN', 'IND']) // Returns an array of country information by excluding ISO2/ISO3 Codes
+CountryNotes.findByPhoneCode('86') // Return country information by Phone Code
+CountryNotes.excludeByPhoneCodes(['86', '91']) // Returns an array of country information by excluding Phone Codes
 ```
 
 ## Contributing
