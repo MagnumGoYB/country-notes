@@ -1,0 +1,71 @@
+{
+  "name": "country-notes",
+  "version": "1.0.0",
+  "description": "Find country codes, country phone codes, country time zone, ISO2 and ISO3 letter codes of countries. Resouce from https://countrycode.org",
+  "license": "MIT",
+  "author": "MagnumGoYB <sosbs@outlook.com>",
+  "homepage": "https://github.com/MagnumGoYB/country-notes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MagnumGoYB/country-notes"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "npm run clean && npm run build:es",
+    "build:es": "rollup --config rollup.config.js",
+    "build:ts": "tsc -p tsconfig.build.json && tsc-alias -p tsconfig.build.json",
+    "clean": "rimraf ./dist",
+    "preinstall": "only-allow pnpm",
+    "lint": "eslint --ext .ts --fix --quiet ./src",
+    "prepare": "husky || true",
+    "pretty": "pretty-quick && prettier-package-json --write",
+    "prepublishOnly": "npm run lint && npm run pretty && npm run build"
+  },
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.0",
+    "@commitlint/config-conventional": "^19.1.0",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-replace": "^5.0.5",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "husky": "^9",
+    "lint-staged": "^15.2.2",
+    "only-allow": "^1.2.1",
+    "prettier": "^3.2.5",
+    "prettier-package-json": "^2.8.0",
+    "pretty-quick": "^4.0.0",
+    "rimraf": "^5.0.5",
+    "rollup": "^4.13.0",
+    "rollup-plugin-exclude-dependencies-from-bundle": "^1.1.23",
+    "rollup-plugin-filesize": "^10.0.0",
+    "rollup-plugin-tsc-alias": "^1.1.2",
+    "tsc-alias": "^1.8.8",
+    "typescript": "^5.4.2"
+  },
+  "keywords": [
+    "ISO country",
+    "ISO2",
+    "ISO3",
+    "code",
+    "country",
+    "country code",
+    "country name",
+    "country phone code",
+    "phone code"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  }
+}

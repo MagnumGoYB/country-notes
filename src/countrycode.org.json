@@ -1,0 +1,1682 @@
+[
+  {
+    "Country Name": "Afghanistan",
+    "ISO2": "AF",
+    "ISO3": "AFG",
+    "Phone Code": 93,
+    "Time Zone": "Asia/Kabul"
+  },
+  {
+    "Country Name": "Albania",
+    "ISO2": "AL",
+    "ISO3": "ALB",
+    "Phone Code": 355,
+    "Time Zone": "Europe/Tirane"
+  },
+  {
+    "Country Name": "Algeria",
+    "ISO2": "DZ",
+    "ISO3": "DZA",
+    "Phone Code": 213,
+    "Time Zone": "Africa/Algiers"
+  },
+  {
+    "Country Name": "American Samoa",
+    "ISO2": "AS",
+    "ISO3": "ASM",
+    "Phone Code": "1-684",
+    "Time Zone": "Pacific/Pago_Pago"
+  },
+  {
+    "Country Name": "Andorra",
+    "ISO2": "AD",
+    "ISO3": "AND",
+    "Phone Code": 376,
+    "Time Zone": "Europe/Andorra"
+  },
+  {
+    "Country Name": "Angola",
+    "ISO2": "AO",
+    "ISO3": "AGO",
+    "Phone Code": 244,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Anguilla",
+    "ISO2": "AI",
+    "ISO3": "AIA",
+    "Phone Code": "1-264",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Antarctica",
+    "ISO2": "AQ",
+    "ISO3": "ATA",
+    "Phone Code": 672,
+    "Time Zone": "Antarctica/Troll"
+  },
+  {
+    "Country Name": "Antigua and Barbuda",
+    "ISO2": "AG",
+    "ISO3": "ATG",
+    "Phone Code": "1-268",
+    "Time Zone": "America/Antigua"
+  },
+  {
+    "Country Name": "Argentina",
+    "ISO2": "AR",
+    "ISO3": "ARG",
+    "Phone Code": 54,
+    "Time Zone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "Country Name": "Armenia",
+    "ISO2": "AM",
+    "ISO3": "ARM",
+    "Phone Code": 374,
+    "Time Zone": "Asia/Yerevan"
+  },
+  {
+    "Country Name": "Aruba",
+    "ISO2": "AW",
+    "ISO3": "ABW",
+    "Phone Code": 297,
+    "Time Zone": "America/Curacao"
+  },
+  {
+    "Country Name": "Australia",
+    "ISO2": "AU",
+    "ISO3": "AUS",
+    "Phone Code": 61,
+    "Time Zone": "Australia/Sydney"
+  },
+  {
+    "Country Name": "Austria",
+    "ISO2": "AT",
+    "ISO3": "AUT",
+    "Phone Code": 43,
+    "Time Zone": "Europe/Vienna"
+  },
+  {
+    "Country Name": "Azerbaijan",
+    "ISO2": "AZ",
+    "ISO3": "AZE",
+    "Phone Code": 994,
+    "Time Zone": "Asia/Baku"
+  },
+  {
+    "Country Name": "Bahamas",
+    "ISO2": "BS",
+    "ISO3": "BHS",
+    "Phone Code": "1-242",
+    "Time Zone": "America/Nassau"
+  },
+  {
+    "Country Name": "Bahrain",
+    "ISO2": "BH",
+    "ISO3": "BHR",
+    "Phone Code": 973,
+    "Time Zone": "Asia/Bahrain"
+  },
+  {
+    "Country Name": "Bangladesh",
+    "ISO2": "BD",
+    "ISO3": "BGD",
+    "Phone Code": 880,
+    "Time Zone": "Asia/Dhaka"
+  },
+  {
+    "Country Name": "Barbados",
+    "ISO2": "BB",
+    "ISO3": "BRB",
+    "Phone Code": "1-246",
+    "Time Zone": "America/Barbados"
+  },
+  {
+    "Country Name": "Belarus",
+    "ISO2": "BY",
+    "ISO3": "BLR",
+    "Phone Code": 375,
+    "Time Zone": "Europe/Minsk"
+  },
+  {
+    "Country Name": "Belgium",
+    "ISO2": "BE",
+    "ISO3": "BEL",
+    "Phone Code": 32,
+    "Time Zone": "Europe/Brussels"
+  },
+  {
+    "Country Name": "Belize",
+    "ISO2": "BZ",
+    "ISO3": "BLZ",
+    "Phone Code": 501,
+    "Time Zone": "America/Belize"
+  },
+  {
+    "Country Name": "Benin",
+    "ISO2": "BJ",
+    "ISO3": "BEN",
+    "Phone Code": 229,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Bermuda",
+    "ISO2": "BM",
+    "ISO3": "BMU",
+    "Phone Code": "1-441",
+    "Time Zone": "Atlantic/Bermuda"
+  },
+  {
+    "Country Name": "Bhutan",
+    "ISO2": "BT",
+    "ISO3": "BTN",
+    "Phone Code": 975,
+    "Time Zone": "Asia/Thimphu"
+  },
+  {
+    "Country Name": "Bolivia",
+    "ISO2": "BO",
+    "ISO3": "BOL",
+    "Phone Code": 591,
+    "Time Zone": "America/La_Paz"
+  },
+  {
+    "Country Name": "Bosnia and Herzegovina",
+    "ISO2": "BA",
+    "ISO3": "BIH",
+    "Phone Code": 387,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Botswana",
+    "ISO2": "BW",
+    "ISO3": "BWA",
+    "Phone Code": 267,
+    "Time Zone": "Africa/Maputo"
+  },
+  {
+    "Country Name": "Brazil",
+    "ISO2": "BR",
+    "ISO3": "BRA",
+    "Phone Code": 55,
+    "Time Zone": "America/Sao_Paulo"
+  },
+  {
+    "Country Name": "British Indian Ocean Territory",
+    "ISO2": "IO",
+    "ISO3": "IOT",
+    "Phone Code": 246,
+    "Time Zone": "Indian/Chagos"
+  },
+  {
+    "Country Name": "British Virgin Islands",
+    "ISO2": "VG",
+    "ISO3": "VGB",
+    "Phone Code": "1-284",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Brunei",
+    "ISO2": "BN",
+    "ISO3": "BRN",
+    "Phone Code": 673,
+    "Time Zone": "Asia/Brunei"
+  },
+  {
+    "Country Name": "Bulgaria",
+    "ISO2": "BG",
+    "ISO3": "BGR",
+    "Phone Code": 359,
+    "Time Zone": "Europe/Sofia"
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "ISO2": "BF",
+    "ISO3": "BFA",
+    "Phone Code": 226,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Burundi",
+    "ISO2": "BI",
+    "ISO3": "BDI",
+    "Phone Code": 257,
+    "Time Zone": "Africa/Maputo"
+  },
+  {
+    "Country Name": "Cambodia",
+    "ISO2": "KH",
+    "ISO3": "KHM",
+    "Phone Code": 855,
+    "Time Zone": "Asia/Phnom_Penh"
+  },
+  {
+    "Country Name": "Cameroon",
+    "ISO2": "CM",
+    "ISO3": "CMR",
+    "Phone Code": 237,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Canada",
+    "ISO2": "CA",
+    "ISO3": "CAN",
+    "Phone Code": 1,
+    "Time Zone": "America/Toronto"
+  },
+  {
+    "Country Name": "Cape Verde",
+    "ISO2": "CV",
+    "ISO3": "CPV",
+    "Phone Code": 238,
+    "Time Zone": "Atlantic/Cape_Verde"
+  },
+  {
+    "Country Name": "Cayman Islands",
+    "ISO2": "KY",
+    "ISO3": "CYM",
+    "Phone Code": "1-345",
+    "Time Zone": "America/Cayman"
+  },
+  {
+    "Country Name": "Central African Republic",
+    "ISO2": "CF",
+    "ISO3": "CAF",
+    "Phone Code": 236,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Chad",
+    "ISO2": "TD",
+    "ISO3": "TCD",
+    "Phone Code": 235,
+    "Time Zone": "Africa/Ndjamena"
+  },
+  {
+    "Country Name": "Chile",
+    "ISO2": "CL",
+    "ISO3": "CHL",
+    "Phone Code": 56,
+    "Time Zone": "America/Santiago"
+  },
+  {
+    "Country Name": "China",
+    "ISO2": "CN",
+    "ISO3": "CHN",
+    "Phone Code": 86,
+    "Time Zone": "Asia/Shanghai"
+  },
+  {
+    "Country Name": "Christmas Island",
+    "ISO2": "CX",
+    "ISO3": "CXR",
+    "Phone Code": 61,
+    "Time Zone": "Indian/Christmas"
+  },
+  {
+    "Country Name": "Cocos Islands",
+    "ISO2": "CC",
+    "ISO3": "CCK",
+    "Phone Code": 61,
+    "Time Zone": "Indian/Cocos"
+  },
+  {
+    "Country Name": "Colombia",
+    "ISO2": "CO",
+    "ISO3": "COL",
+    "Phone Code": 57,
+    "Time Zone": "America/Bogota"
+  },
+  {
+    "Country Name": "Comoros",
+    "ISO2": "KM",
+    "ISO3": "COM",
+    "Phone Code": 269,
+    "Time Zone": "Indian/Comoro"
+  },
+  {
+    "Country Name": "Cook Islands",
+    "ISO2": "CK",
+    "ISO3": "COK",
+    "Phone Code": 682,
+    "Time Zone": "Pacific/Rarotonga"
+  },
+  {
+    "Country Name": "Costa Rica",
+    "ISO2": "CR",
+    "ISO3": "CRI",
+    "Phone Code": 506,
+    "Time Zone": "America/Costa_Rica"
+  },
+  {
+    "Country Name": "Croatia",
+    "ISO2": "HR",
+    "ISO3": "HRV",
+    "Phone Code": 385,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Cuba",
+    "ISO2": "CU",
+    "ISO3": "CUB",
+    "Phone Code": 53,
+    "Time Zone": "America/Havana"
+  },
+  {
+    "Country Name": "Curacao",
+    "ISO2": "CW",
+    "ISO3": "CUW",
+    "Phone Code": 599,
+    "Time Zone": "America/Curacao"
+  },
+  {
+    "Country Name": "Cyprus",
+    "ISO2": "CY",
+    "ISO3": "CYP",
+    "Phone Code": 357,
+    "Time Zone": "Asia/Nicosia"
+  },
+  {
+    "Country Name": "Czech Republic",
+    "ISO2": "CZ",
+    "ISO3": "CZE",
+    "Phone Code": 420,
+    "Time Zone": "Europe/Prague"
+  },
+  {
+    "Country Name": "Democratic Republic of the Congo",
+    "ISO2": "CD",
+    "ISO3": "COD",
+    "Phone Code": 243,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Denmark",
+    "ISO2": "DK",
+    "ISO3": "DNK",
+    "Phone Code": 45,
+    "Time Zone": "Europe/Copenhagen"
+  },
+  {
+    "Country Name": "Djibouti",
+    "ISO2": "DJ",
+    "ISO3": "DJI",
+    "Phone Code": 253,
+    "Time Zone": "Africa/Djibouti"
+  },
+  {
+    "Country Name": "Dominica",
+    "ISO2": "DM",
+    "ISO3": "DMA",
+    "Phone Code": "1-767",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "ISO2": "DO",
+    "ISO3": "DOM",
+    "Phone Code": "1-809, 1-829, 1-849",
+    "Time Zone": "America/Santo_Domingo"
+  },
+  {
+    "Country Name": "East Timor",
+    "ISO2": "TL",
+    "ISO3": "TLS",
+    "Phone Code": 670,
+    "Time Zone": "Asia/Dili"
+  },
+  {
+    "Country Name": "Ecuador",
+    "ISO2": "EC",
+    "ISO3": "ECU",
+    "Phone Code": 593,
+    "Time Zone": "America/Guayaquil"
+  },
+  {
+    "Country Name": "Egypt",
+    "ISO2": "EG",
+    "ISO3": "EGY",
+    "Phone Code": 20,
+    "Time Zone": "Africa/Cairo"
+  },
+  {
+    "Country Name": "El Salvador",
+    "ISO2": "SV",
+    "ISO3": "SLV",
+    "Phone Code": 503,
+    "Time Zone": "America/El_Salvador"
+  },
+  {
+    "Country Name": "Equatorial Guinea",
+    "ISO2": "GQ",
+    "ISO3": "GNQ",
+    "Phone Code": 240,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Eritrea",
+    "ISO2": "ER",
+    "ISO3": "ERI",
+    "Phone Code": 291,
+    "Time Zone": "Africa/Asmara"
+  },
+  {
+    "Country Name": "Estonia",
+    "ISO2": "EE",
+    "ISO3": "EST",
+    "Phone Code": 372,
+    "Time Zone": "Europe/Tallinn"
+  },
+  {
+    "Country Name": "Ethiopia",
+    "ISO2": "ET",
+    "ISO3": "ETH",
+    "Phone Code": 251,
+    "Time Zone": "Africa/Addis_Ababa"
+  },
+  {
+    "Country Name": "Falkland Islands",
+    "ISO2": "FK",
+    "ISO3": "FLK",
+    "Phone Code": 500,
+    "Time Zone": "Atlantic/Stanley"
+  },
+  {
+    "Country Name": "Faroe Islands",
+    "ISO2": "FO",
+    "ISO3": "FRO",
+    "Phone Code": 298,
+    "Time Zone": "Atlantic/Faroe"
+  },
+  {
+    "Country Name": "Fiji",
+    "ISO2": "FJ",
+    "ISO3": "FJI",
+    "Phone Code": 679,
+    "Time Zone": "Pacific/Fiji"
+  },
+  {
+    "Country Name": "Finland",
+    "ISO2": "FI",
+    "ISO3": "FIN",
+    "Phone Code": 358,
+    "Time Zone": "Europe/Helsinki"
+  },
+  {
+    "Country Name": "France",
+    "ISO2": "FR",
+    "ISO3": "FRA",
+    "Phone Code": 33,
+    "Time Zone": "Europe/Paris"
+  },
+  {
+    "Country Name": "French Polynesia",
+    "ISO2": "PF",
+    "ISO3": "PYF",
+    "Phone Code": 689,
+    "Time Zone": "Pacific/Tahiti"
+  },
+  {
+    "Country Name": "Gabon",
+    "ISO2": "GA",
+    "ISO3": "GAB",
+    "Phone Code": 241,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Gambia",
+    "ISO2": "GM",
+    "ISO3": "GMB",
+    "Phone Code": 220,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Georgia",
+    "ISO2": "GE",
+    "ISO3": "GEO",
+    "Phone Code": 995,
+    "Time Zone": "Asia/Tbilisi"
+  },
+  {
+    "Country Name": "Germany",
+    "ISO2": "DE",
+    "ISO3": "DEU",
+    "Phone Code": 49,
+    "Time Zone": "Europe/Berlin"
+  },
+  {
+    "Country Name": "Ghana",
+    "ISO2": "GH",
+    "ISO3": "GHA",
+    "Phone Code": 233,
+    "Time Zone": "Africa/Accra"
+  },
+  {
+    "Country Name": "Gibraltar",
+    "ISO2": "GI",
+    "ISO3": "GIB",
+    "Phone Code": 350,
+    "Time Zone": "Europe/Gibraltar"
+  },
+  {
+    "Country Name": "Greece",
+    "ISO2": "GR",
+    "ISO3": "GRC",
+    "Phone Code": 30,
+    "Time Zone": "Europe/Athens"
+  },
+  {
+    "Country Name": "Greenland",
+    "ISO2": "GL",
+    "ISO3": "GRL",
+    "Phone Code": 299,
+    "Time Zone": "America/Godthab"
+  },
+  {
+    "Country Name": "Grenada",
+    "ISO2": "GD",
+    "ISO3": "GRD",
+    "Phone Code": "1-473",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Guam",
+    "ISO2": "GU",
+    "ISO3": "GUM",
+    "Phone Code": "1-671",
+    "Time Zone": "Pacific/Guam"
+  },
+  {
+    "Country Name": "Guatemala",
+    "ISO2": "GT",
+    "ISO3": "GTM",
+    "Phone Code": 502,
+    "Time Zone": "America/Guatemala"
+  },
+  {
+    "Country Name": "Guernsey",
+    "ISO2": "GG",
+    "ISO3": "GGY",
+    "Phone Code": "44-1481",
+    "Time Zone": "Europe/London"
+  },
+  {
+    "Country Name": "Guinea",
+    "ISO2": "GN",
+    "ISO3": "GIN",
+    "Phone Code": 224,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Guinea-Bissau",
+    "ISO2": "GW",
+    "ISO3": "GNB",
+    "Phone Code": 245,
+    "Time Zone": "Africa/Bissau"
+  },
+  {
+    "Country Name": "Guyana",
+    "ISO2": "GY",
+    "ISO3": "GUY",
+    "Phone Code": 592,
+    "Time Zone": "America/Guyana"
+  },
+  {
+    "Country Name": "Haiti",
+    "ISO2": "HT",
+    "ISO3": "HTI",
+    "Phone Code": 509,
+    "Time Zone": "America/Port-au-Prince"
+  },
+  {
+    "Country Name": "Honduras",
+    "ISO2": "HN",
+    "ISO3": "HND",
+    "Phone Code": 504,
+    "Time Zone": "America/Tegucigalpa"
+  },
+  {
+    "Country Name": "Hong Kong",
+    "ISO2": "HK",
+    "ISO3": "HKG",
+    "Phone Code": 852,
+    "Time Zone": "Asia/Hong_Kong"
+  },
+  {
+    "Country Name": "Hungary",
+    "ISO2": "HU",
+    "ISO3": "HUN",
+    "Phone Code": 36,
+    "Time Zone": "Europe/Budapest"
+  },
+  {
+    "Country Name": "Iceland",
+    "ISO2": "IS",
+    "ISO3": "ISL",
+    "Phone Code": 354,
+    "Time Zone": "Atlantic/Reykjavik"
+  },
+  {
+    "Country Name": "India",
+    "ISO2": "IN",
+    "ISO3": "IND",
+    "Phone Code": 91,
+    "Time Zone": "Asia/Kolkata"
+  },
+  {
+    "Country Name": "Indonesia",
+    "ISO2": "ID",
+    "ISO3": "IDN",
+    "Phone Code": 62,
+    "Time Zone": "Asia/Jakarta"
+  },
+  {
+    "Country Name": "Iran",
+    "ISO2": "IR",
+    "ISO3": "IRN",
+    "Phone Code": 98,
+    "Time Zone": "Asia/Tehran"
+  },
+  {
+    "Country Name": "Iraq",
+    "ISO2": "IQ",
+    "ISO3": "IRQ",
+    "Phone Code": 964,
+    "Time Zone": "Asia/Baghdad"
+  },
+  {
+    "Country Name": "Ireland",
+    "ISO2": "IE",
+    "ISO3": "IRL",
+    "Phone Code": 353,
+    "Time Zone": "Europe/Dublin"
+  },
+  {
+    "Country Name": "Isle of Man",
+    "ISO2": "IM",
+    "ISO3": "IMN",
+    "Phone Code": "44-1624",
+    "Time Zone": "Europe/London"
+  },
+  {
+    "Country Name": "Israel",
+    "ISO2": "IL",
+    "ISO3": "ISR",
+    "Phone Code": 972,
+    "Time Zone": "Asia/Jerusalem"
+  },
+  {
+    "Country Name": "Italy",
+    "ISO2": "IT",
+    "ISO3": "ITA",
+    "Phone Code": 39,
+    "Time Zone": "Europe/Rome"
+  },
+  {
+    "Country Name": "Ivory Coast",
+    "ISO2": "CI",
+    "ISO3": "CIV",
+    "Phone Code": 225,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Jamaica",
+    "ISO2": "JM",
+    "ISO3": "JAM",
+    "Phone Code": "1-876",
+    "Time Zone": "America/Jamaica"
+  },
+  {
+    "Country Name": "Japan",
+    "ISO2": "JP",
+    "ISO3": "JPN",
+    "Phone Code": 81,
+    "Time Zone": "Asia/Tokyo"
+  },
+  {
+    "Country Name": "Jersey",
+    "ISO2": "JE",
+    "ISO3": "JEY",
+    "Phone Code": "44-1534",
+    "Time Zone": "Europe/London"
+  },
+  {
+    "Country Name": "Jordan",
+    "ISO2": "JO",
+    "ISO3": "JOR",
+    "Phone Code": 962,
+    "Time Zone": "Asia/Amman"
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "ISO2": "KZ",
+    "ISO3": "KAZ",
+    "Phone Code": 7,
+    "Time Zone": "Asia/Almaty"
+  },
+  {
+    "Country Name": "Kenya",
+    "ISO2": "KE",
+    "ISO3": "KEN",
+    "Phone Code": 254,
+    "Time Zone": "Africa/Nairobi"
+  },
+  {
+    "Country Name": "Kiribati",
+    "ISO2": "KI",
+    "ISO3": "KIR",
+    "Phone Code": 686,
+    "Time Zone": "Pacific/Tarawa"
+  },
+  {
+    "Country Name": "Kosovo",
+    "ISO2": "XK",
+    "ISO3": "XKX",
+    "Phone Code": 383,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Kuwait",
+    "ISO2": "KW",
+    "ISO3": "KWT",
+    "Phone Code": 965,
+    "Time Zone": "Asia/Kuwait"
+  },
+  {
+    "Country Name": "Kyrgyzstan",
+    "ISO2": "KG",
+    "ISO3": "KGZ",
+    "Phone Code": 996,
+    "Time Zone": "Asia/Bishkek"
+  },
+  {
+    "Country Name": "Laos",
+    "ISO2": "LA",
+    "ISO3": "LAO",
+    "Phone Code": 856,
+    "Time Zone": "Asia/Vientiane"
+  },
+  {
+    "Country Name": "Latvia",
+    "ISO2": "LV",
+    "ISO3": "LVA",
+    "Phone Code": 371,
+    "Time Zone": "Europe/Riga"
+  },
+  {
+    "Country Name": "Lebanon",
+    "ISO2": "LB",
+    "ISO3": "LBN",
+    "Phone Code": 961,
+    "Time Zone": "Asia/Beirut"
+  },
+  {
+    "Country Name": "Lesotho",
+    "ISO2": "LS",
+    "ISO3": "LSO",
+    "Phone Code": 266,
+    "Time Zone": "Africa/Johannesburg"
+  },
+  {
+    "Country Name": "Liberia",
+    "ISO2": "LR",
+    "ISO3": "LBR",
+    "Phone Code": 231,
+    "Time Zone": "Africa/Monrovia"
+  },
+  {
+    "Country Name": "Libya",
+    "ISO2": "LY",
+    "ISO3": "LBY",
+    "Phone Code": 218,
+    "Time Zone": "Africa/Tripoli"
+  },
+  {
+    "Country Name": "Liechtenstein",
+    "ISO2": "LI",
+    "ISO3": "LIE",
+    "Phone Code": 423,
+    "Time Zone": "Europe/Zurich"
+  },
+  {
+    "Country Name": "Lithuania",
+    "ISO2": "LT",
+    "ISO3": "LTU",
+    "Phone Code": 370,
+    "Time Zone": "Europe/Vilnius"
+  },
+  {
+    "Country Name": "Luxembourg",
+    "ISO2": "LU",
+    "ISO3": "LUX",
+    "Phone Code": 352,
+    "Time Zone": "Europe/Luxembourg"
+  },
+  {
+    "Country Name": "Macau",
+    "ISO2": "MO",
+    "ISO3": "MAC",
+    "Phone Code": 853,
+    "Time Zone": "Asia/Macau"
+  },
+  {
+    "Country Name": "Macedonia",
+    "ISO2": "MK",
+    "ISO3": "MKD",
+    "Phone Code": 389,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Madagascar",
+    "ISO2": "MG",
+    "ISO3": "MDG",
+    "Phone Code": 261,
+    "Time Zone": "Indian/Antananarivo"
+  },
+  {
+    "Country Name": "Malawi",
+    "ISO2": "MW",
+    "ISO3": "MWI",
+    "Phone Code": 265,
+    "Time Zone": "Africa/Maputo"
+  },
+  {
+    "Country Name": "Malaysia",
+    "ISO2": "MY",
+    "ISO3": "MYS",
+    "Phone Code": 60,
+    "Time Zone": "Asia/Kuala_Lumpur"
+  },
+  {
+    "Country Name": "Maldives",
+    "ISO2": "MV",
+    "ISO3": "MDV",
+    "Phone Code": 960,
+    "Time Zone": "Indian/Maldives"
+  },
+  {
+    "Country Name": "Mali",
+    "ISO2": "ML",
+    "ISO3": "MLI",
+    "Phone Code": 223,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Malta",
+    "ISO2": "MT",
+    "ISO3": "MLT",
+    "Phone Code": 356,
+    "Time Zone": "Europe/Malta"
+  },
+  {
+    "Country Name": "Marshall Islands",
+    "ISO2": "MH",
+    "ISO3": "MHL",
+    "Phone Code": 692,
+    "Time Zone": "Pacific/Majuro"
+  },
+  {
+    "Country Name": "Mauritania",
+    "ISO2": "MR",
+    "ISO3": "MRT",
+    "Phone Code": 222,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Mauritius",
+    "ISO2": "MU",
+    "ISO3": "MUS",
+    "Phone Code": 230,
+    "Time Zone": "Indian/Mauritius"
+  },
+  {
+    "Country Name": "Mayotte",
+    "ISO2": "YT",
+    "ISO3": "MYT",
+    "Phone Code": 262,
+    "Time Zone": "Indian/Mayotte"
+  },
+  {
+    "Country Name": "Mexico",
+    "ISO2": "MX",
+    "ISO3": "MEX",
+    "Phone Code": 52,
+    "Time Zone": "America/Mexico_City"
+  },
+  {
+    "Country Name": "Micronesia",
+    "ISO2": "FM",
+    "ISO3": "FSM",
+    "Phone Code": 691,
+    "Time Zone": "Pacific/Pohnpei"
+  },
+  {
+    "Country Name": "Moldova",
+    "ISO2": "MD",
+    "ISO3": "MDA",
+    "Phone Code": 373,
+    "Time Zone": "Europe/Chisinau"
+  },
+  {
+    "Country Name": "Monaco",
+    "ISO2": "MC",
+    "ISO3": "MCO",
+    "Phone Code": 377,
+    "Time Zone": "Europe/Monaco"
+  },
+  {
+    "Country Name": "Mongolia",
+    "ISO2": "MN",
+    "ISO3": "MNG",
+    "Phone Code": 976,
+    "Time Zone": "Asia/Ulaanbaatar"
+  },
+  {
+    "Country Name": "Montenegro",
+    "ISO2": "ME",
+    "ISO3": "MNE",
+    "Phone Code": 382,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Montserrat",
+    "ISO2": "MS",
+    "ISO3": "MSR",
+    "Phone Code": "1-664",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Morocco",
+    "ISO2": "MA",
+    "ISO3": "MAR",
+    "Phone Code": 212,
+    "Time Zone": "Africa/Casablanca"
+  },
+  {
+    "Country Name": "Mozambique",
+    "ISO2": "MZ",
+    "ISO3": "MOZ",
+    "Phone Code": 258,
+    "Time Zone": "Africa/Maputo"
+  },
+  {
+    "Country Name": "Myanmar",
+    "ISO2": "MM",
+    "ISO3": "MMR",
+    "Phone Code": 95,
+    "Time Zone": "Asia/Rangoon"
+  },
+  {
+    "Country Name": "Namibia",
+    "ISO2": "NA",
+    "ISO3": "NAM",
+    "Phone Code": 264,
+    "Time Zone": "Africa/Windhoek"
+  },
+  {
+    "Country Name": "Nauru",
+    "ISO2": "NR",
+    "ISO3": "NRU",
+    "Phone Code": 674,
+    "Time Zone": "Pacific/Nauru"
+  },
+  {
+    "Country Name": "Nepal",
+    "ISO2": "NP",
+    "ISO3": "NPL",
+    "Phone Code": 977,
+    "Time Zone": "Asia/Kathmandu"
+  },
+  {
+    "Country Name": "Netherlands",
+    "ISO2": "NL",
+    "ISO3": "NLD",
+    "Phone Code": 31,
+    "Time Zone": "Europe/Amsterdam"
+  },
+  {
+    "Country Name": "Netherlands Antilles",
+    "ISO2": "AN",
+    "ISO3": "ANT",
+    "Phone Code": 599,
+    "Time Zone": "America/Curacao"
+  },
+  {
+    "Country Name": "New Caledonia",
+    "ISO2": "NC",
+    "ISO3": "NCL",
+    "Phone Code": 687,
+    "Time Zone": "Pacific/Noumea"
+  },
+  {
+    "Country Name": "New Zealand",
+    "ISO2": "NZ",
+    "ISO3": "NZL",
+    "Phone Code": 64,
+    "Time Zone": "Pacific/Auckland"
+  },
+  {
+    "Country Name": "Nicaragua",
+    "ISO2": "NI",
+    "ISO3": "NIC",
+    "Phone Code": 505,
+    "Time Zone": "America/Managua"
+  },
+  {
+    "Country Name": "Niger",
+    "ISO2": "NE",
+    "ISO3": "NER",
+    "Phone Code": 227,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Nigeria",
+    "ISO2": "NG",
+    "ISO3": "NGA",
+    "Phone Code": 234,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Niue",
+    "ISO2": "NU",
+    "ISO3": "NIU",
+    "Phone Code": 683,
+    "Time Zone": "Pacific/Niue"
+  },
+  {
+    "Country Name": "North Korea",
+    "ISO2": "KP",
+    "ISO3": "PRK",
+    "Phone Code": 850,
+    "Time Zone": "Asia/Pyongyang"
+  },
+  {
+    "Country Name": "Northern Mariana Islands",
+    "ISO2": "MP",
+    "ISO3": "MNP",
+    "Phone Code": "1-670",
+    "Time Zone": "Pacific/Saipan"
+  },
+  {
+    "Country Name": "Norway",
+    "ISO2": "NO",
+    "ISO3": "NOR",
+    "Phone Code": 47,
+    "Time Zone": "Europe/Oslo"
+  },
+  {
+    "Country Name": "Oman",
+    "ISO2": "OM",
+    "ISO3": "OMN",
+    "Phone Code": 968,
+    "Time Zone": "Asia/Muscat"
+  },
+  {
+    "Country Name": "Pakistan",
+    "ISO2": "PK",
+    "ISO3": "PAK",
+    "Phone Code": 92,
+    "Time Zone": "Asia/Karachi"
+  },
+  {
+    "Country Name": "Palau",
+    "ISO2": "PW",
+    "ISO3": "PLW",
+    "Phone Code": 680,
+    "Time Zone": "Pacific/Palau"
+  },
+  {
+    "Country Name": "Palestine",
+    "ISO2": "PS",
+    "ISO3": "PSE",
+    "Phone Code": 970,
+    "Time Zone": "Asia/Hebron"
+  },
+  {
+    "Country Name": "Panama",
+    "ISO2": "PA",
+    "ISO3": "PAN",
+    "Phone Code": 507,
+    "Time Zone": "America/Panama"
+  },
+  {
+    "Country Name": "Papua New Guinea",
+    "ISO2": "PG",
+    "ISO3": "PNG",
+    "Phone Code": 675,
+    "Time Zone": "Pacific/Port_Moresby"
+  },
+  {
+    "Country Name": "Paraguay",
+    "ISO2": "PY",
+    "ISO3": "PRY",
+    "Phone Code": 595,
+    "Time Zone": "America/Asuncion"
+  },
+  {
+    "Country Name": "Peru",
+    "ISO2": "PE",
+    "ISO3": "PER",
+    "Phone Code": 51,
+    "Time Zone": "America/Lima"
+  },
+  {
+    "Country Name": "Philippines",
+    "ISO2": "PH",
+    "ISO3": "PHL",
+    "Phone Code": 63,
+    "Time Zone": "Asia/Manila"
+  },
+  {
+    "Country Name": "Pitcairn",
+    "ISO2": "PN",
+    "ISO3": "PCN",
+    "Phone Code": 64,
+    "Time Zone": "Pacific/Pitcairn"
+  },
+  {
+    "Country Name": "Poland",
+    "ISO2": "PL",
+    "ISO3": "POL",
+    "Phone Code": 48,
+    "Time Zone": "Europe/Warsaw"
+  },
+  {
+    "Country Name": "Portugal",
+    "ISO2": "PT",
+    "ISO3": "PRT",
+    "Phone Code": 351,
+    "Time Zone": "Europe/Lisbon"
+  },
+  {
+    "Country Name": "Puerto Rico",
+    "ISO2": "PR",
+    "ISO3": "PRI",
+    "Phone Code": "1-787, 1-939",
+    "Time Zone": "America/Puerto_Rico"
+  },
+  {
+    "Country Name": "Qatar",
+    "ISO2": "QA",
+    "ISO3": "QAT",
+    "Phone Code": 974,
+    "Time Zone": "Asia/Qatar"
+  },
+  {
+    "Country Name": "Republic of the Congo",
+    "ISO2": "CG",
+    "ISO3": "COG",
+    "Phone Code": 242,
+    "Time Zone": "Africa/Lagos"
+  },
+  {
+    "Country Name": "Reunion",
+    "ISO2": "RE",
+    "ISO3": "REU",
+    "Phone Code": 262,
+    "Time Zone": "Indian/Reunion"
+  },
+  {
+    "Country Name": "Romania",
+    "ISO2": "RO",
+    "ISO3": "ROU",
+    "Phone Code": 40,
+    "Time Zone": "Europe/Bucharest"
+  },
+  {
+    "Country Name": "Russia",
+    "ISO2": "RU",
+    "ISO3": "RUS",
+    "Phone Code": 7,
+    "Time Zone": "Europe/Moscow"
+  },
+  {
+    "Country Name": "Rwanda",
+    "ISO2": "RW",
+    "ISO3": "RWA",
+    "Phone Code": 250,
+    "Time Zone": "Africa/Maputo"
+  },
+  {
+    "Country Name": "Saint Barthelemy",
+    "ISO2": "BL",
+    "ISO3": "BLM",
+    "Phone Code": 590,
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Saint Helena",
+    "ISO2": "SH",
+    "ISO3": "SHN",
+    "Phone Code": 290,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Saint Kitts and Nevis",
+    "ISO2": "KN",
+    "ISO3": "KNA",
+    "Phone Code": "1-869",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Saint Lucia",
+    "ISO2": "LC",
+    "ISO3": "LCA",
+    "Phone Code": "1-758",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Saint Martin",
+    "ISO2": "MF",
+    "ISO3": "MAF",
+    "Phone Code": 590,
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Saint Pierre and Miquelon",
+    "ISO2": "PM",
+    "ISO3": "SPM",
+    "Phone Code": 508,
+    "Time Zone": "America/Miquelon"
+  },
+  {
+    "Country Name": "Saint Vincent and the Grenadines",
+    "ISO2": "VC",
+    "ISO3": "VCT",
+    "Phone Code": "1-784",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Samoa",
+    "ISO2": "WS",
+    "ISO3": "WSM",
+    "Phone Code": 685,
+    "Time Zone": "Pacific/Apia"
+  },
+  {
+    "Country Name": "San Marino",
+    "ISO2": "SM",
+    "ISO3": "SMR",
+    "Phone Code": 378,
+    "Time Zone": "Europe/Rome"
+  },
+  {
+    "Country Name": "Sao Tome and Principe",
+    "ISO2": "ST",
+    "ISO3": "STP",
+    "Phone Code": 239,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Saudi Arabia",
+    "ISO2": "SA",
+    "ISO3": "SAU",
+    "Phone Code": 966,
+    "Time Zone": "Asia/Riyadh"
+  },
+  {
+    "Country Name": "Senegal",
+    "ISO2": "SN",
+    "ISO3": "SEN",
+    "Phone Code": 221,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Serbia",
+    "ISO2": "RS",
+    "ISO3": "SRB",
+    "Phone Code": 381,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Seychelles",
+    "ISO2": "SC",
+    "ISO3": "SYC",
+    "Phone Code": 248,
+    "Time Zone": "Indian/Mahe"
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "ISO2": "SL",
+    "ISO3": "SLE",
+    "Phone Code": 232,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Singapore",
+    "ISO2": "SG",
+    "ISO3": "SGP",
+    "Phone Code": 65,
+    "Time Zone": "Asia/Singapore"
+  },
+  {
+    "Country Name": "Sint Maarten",
+    "ISO2": "SX",
+    "ISO3": "SXM",
+    "Phone Code": "1-721",
+    "Time Zone": "America/Curacao"
+  },
+  {
+    "Country Name": "Slovakia",
+    "ISO2": "SK",
+    "ISO3": "SVK",
+    "Phone Code": 421,
+    "Time Zone": "Europe/Prague"
+  },
+  {
+    "Country Name": "Slovenia",
+    "ISO2": "SI",
+    "ISO3": "SVN",
+    "Phone Code": 386,
+    "Time Zone": "Europe/Belgrade"
+  },
+  {
+    "Country Name": "Solomon Islands",
+    "ISO2": "SB",
+    "ISO3": "SLB",
+    "Phone Code": 677,
+    "Time Zone": "Pacific/Guadalcanal"
+  },
+  {
+    "Country Name": "Somalia",
+    "ISO2": "SO",
+    "ISO3": "SOM",
+    "Phone Code": 252,
+    "Time Zone": "Africa/Mogadishu"
+  },
+  {
+    "Country Name": "South Africa",
+    "ISO2": "ZA",
+    "ISO3": "ZAF",
+    "Phone Code": 27,
+    "Time Zone": "Africa/Johannesburg"
+  },
+  {
+    "Country Name": "South Korea",
+    "ISO2": "KR",
+    "ISO3": "KOR",
+    "Phone Code": 82,
+    "Time Zone": "Asia/Seoul"
+  },
+  {
+    "Country Name": "South Sudan",
+    "ISO2": "SS",
+    "ISO3": "SSD",
+    "Phone Code": 211,
+    "Time Zone": "Africa/Khartoum"
+  },
+  {
+    "Country Name": "Spain",
+    "ISO2": "ES",
+    "ISO3": "ESP",
+    "Phone Code": 34,
+    "Time Zone": "Europe/Madrid"
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "ISO2": "LK",
+    "ISO3": "LKA",
+    "Phone Code": 94,
+    "Time Zone": "Asia/Colombo"
+  },
+  {
+    "Country Name": "Sudan",
+    "ISO2": "SD",
+    "ISO3": "SDN",
+    "Phone Code": 249,
+    "Time Zone": "Africa/Khartoum"
+  },
+  {
+    "Country Name": "Suriname",
+    "ISO2": "SR",
+    "ISO3": "SUR",
+    "Phone Code": 597,
+    "Time Zone": "America/Paramaribo"
+  },
+  {
+    "Country Name": "Svalbard and Jan Mayen",
+    "ISO2": "SJ",
+    "ISO3": "SJM",
+    "Phone Code": 47,
+    "Time Zone": "Europe/Oslo"
+  },
+  {
+    "Country Name": "Swaziland",
+    "ISO2": "SZ",
+    "ISO3": "SWZ",
+    "Phone Code": 268,
+    "Time Zone": "Africa/Johannesburg"
+  },
+  {
+    "Country Name": "Sweden",
+    "ISO2": "SE",
+    "ISO3": "SWE",
+    "Phone Code": 46,
+    "Time Zone": "Europe/Stockholm"
+  },
+  {
+    "Country Name": "Switzerland",
+    "ISO2": "CH",
+    "ISO3": "CHE",
+    "Phone Code": 41,
+    "Time Zone": "Europe/Zurich"
+  },
+  {
+    "Country Name": "Syria",
+    "ISO2": "SY",
+    "ISO3": "SYR",
+    "Phone Code": 963,
+    "Time Zone": "Asia/Damascus"
+  },
+  {
+    "Country Name": "Taiwan",
+    "ISO2": "TW",
+    "ISO3": "TWN",
+    "Phone Code": 886,
+    "Time Zone": "Asia/Taipei"
+  },
+  {
+    "Country Name": "Tajikistan",
+    "ISO2": "TJ",
+    "ISO3": "TJK",
+    "Phone Code": 992,
+    "Time Zone": "Asia/Dushanbe"
+  },
+  {
+    "Country Name": "Tanzania",
+    "ISO2": "TZ",
+    "ISO3": "TZA",
+    "Phone Code": 255,
+    "Time Zone": "Africa/Dar_es_Salaam"
+  },
+  {
+    "Country Name": "Thailand",
+    "ISO2": "TH",
+    "ISO3": "THA",
+    "Phone Code": 66,
+    "Time Zone": "Asia/Bangkok"
+  },
+  {
+    "Country Name": "Togo",
+    "ISO2": "TG",
+    "ISO3": "TGO",
+    "Phone Code": 228,
+    "Time Zone": "Africa/Abidjan"
+  },
+  {
+    "Country Name": "Tokelau",
+    "ISO2": "TK",
+    "ISO3": "TKL",
+    "Phone Code": 690,
+    "Time Zone": "Pacific/Fakaofo"
+  },
+  {
+    "Country Name": "Tonga",
+    "ISO2": "TO",
+    "ISO3": "TON",
+    "Phone Code": 676,
+    "Time Zone": "Pacific/Tongatapu"
+  },
+  {
+    "Country Name": "Trinidad and Tobago",
+    "ISO2": "TT",
+    "ISO3": "TTO",
+    "Phone Code": "1-868",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Tunisia",
+    "ISO2": "TN",
+    "ISO3": "TUN",
+    "Phone Code": 216,
+    "Time Zone": "Africa/Tunis"
+  },
+  {
+    "Country Name": "Turkey",
+    "ISO2": "TR",
+    "ISO3": "TUR",
+    "Phone Code": 90,
+    "Time Zone": "Europe/Istanbul"
+  },
+  {
+    "Country Name": "Turkmenistan",
+    "ISO2": "TM",
+    "ISO3": "TKM",
+    "Phone Code": 993,
+    "Time Zone": "Asia/Ashgabat"
+  },
+  {
+    "Country Name": "Turks and Caicos Islands",
+    "ISO2": "TC",
+    "ISO3": "TCA",
+    "Phone Code": "1-649",
+    "Time Zone": "America/Grand_Turk"
+  },
+  {
+    "Country Name": "Tuvalu",
+    "ISO2": "TV",
+    "ISO3": "TUV",
+    "Phone Code": 688,
+    "Time Zone": "Pacific/Funafuti"
+  },
+  {
+    "Country Name": "U.S. Virgin Islands",
+    "ISO2": "VI",
+    "ISO3": "VIR",
+    "Phone Code": "1-340",
+    "Time Zone": "America/Port_of_Spain"
+  },
+  {
+    "Country Name": "Uganda",
+    "ISO2": "UG",
+    "ISO3": "UGA",
+    "Phone Code": 256,
+    "Time Zone": "Africa/Kampala"
+  },
+  {
+    "Country Name": "Ukraine",
+    "ISO2": "UA",
+    "ISO3": "UKR",
+    "Phone Code": 380,
+    "Time Zone": "Europe/Kiev"
+  },
+  {
+    "Country Name": "United Arab Emirates",
+    "ISO2": "AE",
+    "ISO3": "ARE",
+    "Phone Code": 971,
+    "Time Zone": "Asia/Dubai"
+  },
+  {
+    "Country Name": "United Kingdom",
+    "ISO2": "GB",
+    "ISO3": "GBR",
+    "Phone Code": 44,
+    "Time Zone": "Europe/London"
+  },
+  {
+    "Country Name": "United States",
+    "ISO2": "US",
+    "ISO3": "USA",
+    "Phone Code": 1,
+    "Time Zone": "America/New_York"
+  },
+  {
+    "Country Name": "Uruguay",
+    "ISO2": "UY",
+    "ISO3": "URY",
+    "Phone Code": 598,
+    "Time Zone": "America/Montevideo"
+  },
+  {
+    "Country Name": "Uzbekistan",
+    "ISO2": "UZ",
+    "ISO3": "UZB",
+    "Phone Code": 998,
+    "Time Zone": "Asia/Tashkent"
+  },
+  {
+    "Country Name": "Vanuatu",
+    "ISO2": "VU",
+    "ISO3": "VUT",
+    "Phone Code": 678,
+    "Time Zone": "Pacific/Efate"
+  },
+  {
+    "Country Name": "Vatican",
+    "ISO2": "VA",
+    "ISO3": "VAT",
+    "Phone Code": 379,
+    "Time Zone": "Europe/Rome"
+  },
+  {
+    "Country Name": "Venezuela",
+    "ISO2": "VE",
+    "ISO3": "VEN",
+    "Phone Code": 58,
+    "Time Zone": "America/Caracas"
+  },
+  {
+    "Country Name": "Vietnam",
+    "ISO2": "VN",
+    "ISO3": "VNM",
+    "Phone Code": 84,
+    "Time Zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "Country Name": "Wallis and Futuna",
+    "ISO2": "WF",
+    "ISO3": "WLF",
+    "Phone Code": 681,
+    "Time Zone": "Pacific/Wallis"
+  },
+  {
+    "Country Name": "Western Sahara",
+    "ISO2": "EH",
+    "ISO3": "ESH",
+    "Phone Code": 212,
+    "Time Zone": "Africa/El_Aaiun"
+  },
+  {
+    "Country Name": "Yemen",
+    "ISO2": "YE",
+    "ISO3": "YEM",
+    "Phone Code": 967,
+    "Time Zone": "Asia/Aden"
+  },
+  {
+    "Country Name": "Zambia",
+    "ISO2": "ZM",
+    "ISO3": "ZMB",
+    "Phone Code": 260,
+    "Time Zone": "Africa/Maputo"
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "ISO2": "ZW",
+    "ISO3": "ZWE",
+    "Phone Code": 263,
+    "Time Zone": "Africa/Maputo"
+  }
+]
