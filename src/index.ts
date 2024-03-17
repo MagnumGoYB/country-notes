@@ -1,4 +1,4 @@
-import CountryCodeJson from './countrycode.org.json'
+import CountryCodeJson from './country-code.org.json'
 
 export interface CountryNoteType {
   code: string
@@ -50,9 +50,14 @@ export const filterByCodes = (
   codes: Array<CountryNoteType['code']>,
   iso3?: boolean
 ) => {
-  return countryCodes.filter((country) =>
-    codes.includes(iso3 ? country.ISO3 : country.ISO2)
-  )
+  const result = [] as CountryNoteType[]
+  codes.forEach((code) => {
+    const country = findByCode(code, iso3)
+    if (country) {
+      result.push(country)
+    }
+  })
+  return result
 }
 
 export const excludeByNames = (names: Array<CountryNoteType['name']>) => {
