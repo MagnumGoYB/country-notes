@@ -10,8 +10,14 @@
     "url": "https://github.com/MagnumGoYB/country-notes"
   },
   "type": "module",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
   "files": [
     "dist"
   ],
