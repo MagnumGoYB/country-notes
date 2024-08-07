@@ -22,18 +22,61 @@ yarn add country-notes
 
 ## Examples
 
-```js
-import CountryNotes from 'country-notes'
+### With ESM
 
-CountryNotes.getAll() // Returns an array of country information
-CountryNotes.getTotal() // Return total number of countries
-CountryNotes.findByName('China') // Return country information by name
-CountryNotes.excludeByNames(['China', 'India']) // Returns an array of country information by excluding names
-CountryNotes.findByCode('CN') // Return country information by ISO2/ISO3 Code
-CountryNotes.filterByCodes(['CN', 'IND']) // Returns an array of country information by ISO2/ISO3 Codes
-CountryNotes.excludeByCodes(['CN', 'IND']) // Returns an array of country information by excluding ISO2/ISO3 Codes
-CountryNotes.findByPhoneCode('86') // Return country information by Phone Code
-CountryNotes.excludeByPhoneCodes(['86', '91']) // Returns an array of country information by excluding Phone Codes
+```js
+import {
+  getAll,
+  getTotal,
+  findByName,
+  excludeByNames,
+  findByCode,
+  filterByCodes,
+  excludeByCodes,
+  findByPhoneCode,
+  excludeByPhoneCodes
+} from 'country-notes'
+
+// or
+// import * as CountryNotes from 'country-notes'
+
+getAll() // Returns an array of country information
+getTotal() // Return total number of countries
+findByName('China') // Return country information by name
+excludeByNames(['China', 'India']) // Returns an array of country information by excluding names
+findByCode('CN') // Return country information by ISO2/ISO3 Code
+filterByCodes(['CN', 'IND']) // Returns an array of country information by ISO2/ISO3 Codes
+excludeByCodes(['CN', 'IND']) // Returns an array of country information by excluding ISO2/ISO3 Codes
+findByPhoneCode('86') // Return country information by Phone Code
+excludeByPhoneCodes(['86', '91']) // Returns an array of country information by excluding Phone Codes
+```
+
+### With CommonJS
+
+```js
+const {
+  getAll,
+  getTotal,
+  findByName,
+  excludeByNames,
+  findByCode,
+  filterByCodes,
+  excludeByCodes,
+  findByPhoneCode,
+  excludeByPhoneCodes
+} = require('country-notes')
+// or
+// const CountryNotes = require('country-notes')
+
+getAll() // Returns an array of country information
+getTotal() // Return total number of countries
+findByName('China') // Return country information by name
+excludeByNames(['China', 'India']) // Returns an array of country information by excluding names
+findByCode('CN') // Return country information by ISO2/ISO3 Code
+filterByCodes(['CN', 'IND']) // Returns an array of country information by ISO2/ISO3 Codes
+excludeByCodes(['CN', 'IND']) // Returns an array of country information by excluding ISO2/ISO3 Codes
+findByPhoneCode('86') // Return country information by Phone Code
+excludeByPhoneCodes(['86', '91']) // Returns an array of country information by excluding Phone Codes
 ```
 
 ## Contributing
